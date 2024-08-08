@@ -15,5 +15,7 @@ we also have two more pages they are not important only for responsive and Adapt
 you can expand the width of app it will cahnge the layout of the app accordingly:
 
 if width <= 600 mobyle layout 
+
 if width <= 1000 Tablet layout 
+
 if width >100 Windows layout 
